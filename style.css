@@ -59,7 +59,7 @@
         }
         
         #nav li a.active {
-            border-bottom: 4px solid yellow;
+            border-bottom: 2px solid yellow;
             color: yellow;
         }
         
@@ -81,7 +81,7 @@
         }
         
         #section1 .wrap {
-            margin-top: 90px
+            margin-top: 9px
         }
         
         #section1 {
@@ -112,18 +112,18 @@
       
         
         #footer {
-            background-color: #333;
+            background-color: blue;
             color: white;
             padding: 20px;
         }
         
         .col-1 {
             width: 66%;
-            display: inline-block;
+            display: inline-white;
             margin-bottom: 20px;
         }
         
         .col-2 {
             width: 33%;
-            display: inline-block;
+            display: inline-white;
         }
