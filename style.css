@@ -25,7 +25,13 @@
             min-height: 600px;
             background-color: #fff;
         }
-        
+        #mast {
+            width: 100%;
+            background-color: #ddd;
+            height: 30px;
+            margin-top: 20px;
+            position: fixed;
+        }
         #nav {
             float: center;
             margin-top: 2px;
