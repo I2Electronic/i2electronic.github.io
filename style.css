@@ -13,17 +13,10 @@
             margin:5px;
         }
         
-        #mast {
-            width: 100%;
-            background-color: #ddd;
-            height: 30px;
-            margin-top: 20px;
-            position: fixed;
-        }
-        
+              
         .container {
             max-width: 1980px;
-            border: 1px solid black;
+            border: 3px solid black;
             margin: 0 auto;
         }
         
@@ -36,7 +29,7 @@
         #nav {
             float: center;
             margin-top: 2px;
-            width: 100px;
+            width: 20px;
         }
         
         #nav ul {
@@ -112,7 +105,7 @@
       
         
         #footer {
-            background-color: pink-blue;
+            background-color: #hhh;
             color: white;
             padding: 20px;
         }
