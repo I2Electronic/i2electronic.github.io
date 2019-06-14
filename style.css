@@ -29,7 +29,7 @@
         #nav {
             float: center;
             margin-top: 2px;
-            width: 10px;
+            width: 3px;
         }
         
         #nav ul {
@@ -39,7 +39,7 @@
         }
         
         #nav li {
-            float: center;
+            float: right;
             padding: 6px;
             margin: 2px;
             background-color: black;
