@@ -85,7 +85,7 @@
         }
         
         #section1 {
-            background: url('i2electronics.in/logo/bulb.jpg');
+            background: url('i2electronic.github.io/logo/bulb.jpg');
             background-size: cover;
         }
         
@@ -99,9 +99,12 @@
         }
         
         #section5 {
-            background: url('https://placeimg.com/1000/800/tech');
+            background: url('i2electronic.github.io/logo/electronic.jpg');
             background-size: cover;
         }
+        #section6 {
+            background: url('i2electronic.github.io/logo/eemg_logo.gif');
+            background-size: cover;
         
         #footer {
             background-color: #333;
