@@ -34,9 +34,9 @@
         }
         
         #nav {
-            float: right;
+            float: center;
             margin-top: 2px;
-            width: 300px;
+            width: 100px;
         }
         
         #nav ul {
@@ -81,7 +81,7 @@
         }
         
         #section1 .wrap {
-            margin-top: 6px
+            margin-top: 12px
         }
         
         #section1 {
@@ -105,14 +105,14 @@
             background: url('i2electronic.github.io/logo/fgh.jpg');
             background-size: cover;
         }
-        #section5 {
+        #section6 {
             background: url('i2electronic.github.io/logo/zfdg.jpg');
             background-size: cover;
         }
       
         
         #footer {
-            background-color: blue;
+            background-color: pink-blue;
             color: white;
             padding: 20px;
         }
