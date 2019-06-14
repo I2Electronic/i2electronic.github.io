@@ -29,7 +29,7 @@
         
         .section {
             border: 1px solid #ddd;
-            min-height: 800px;
+            min-height: 500px;
             background-color: #fff;
         }
         
@@ -47,9 +47,9 @@
         
         #nav li {
             float: left;
-            padding: 16px;
+            padding: 12px;
             margin: 2px;
-            background-color: white;
+            background-color: black;
         }
         
         #nav li a {
