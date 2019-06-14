@@ -97,14 +97,15 @@
             background: url('i2electronic.github.io/logo/9950714.jpg');
             background-size: cover;
         }
-        
-        #section5 {
-            background: url('i2electronic.github.io/logo/electronic.jpg');
+         #section4 {
+            background: url('i2electronic.github.io/logo/bulb.jpg');
             background-size: cover;
         }
-        #section6 {
-            background: url('i2electronic.github.io/logo/eemg_logo.gif');
+        #section5 {
+            background: url('i2electronic.github.io/logo/Capture.JPG');
             background-size: cover;
+        }
+        
         
         #footer {
             background-color: #333;
