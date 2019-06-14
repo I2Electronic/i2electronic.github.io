@@ -16,7 +16,7 @@
         #mast {
             width: 100%;
             background-color: #ddd;
-            height: 50px;
+            height: 30px;
             margin-top: 20px;
             position: fixed;
         }
@@ -29,7 +29,7 @@
         
         .section {
             border: 1px solid #ddd;
-            min-height: 500px;
+            min-height: 800px;
             background-color: #fff;
         }
         
@@ -81,7 +81,7 @@
         }
         
         #section1 .wrap {
-            margin-top: 9px
+            margin-top: 6px
         }
         
         #section1 {
