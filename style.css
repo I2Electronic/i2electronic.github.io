@@ -7,7 +7,7 @@
         }
         
         img {
-            float: left;
+            float: center;
 
             border:1px solid white;
             margin:2px;
@@ -22,7 +22,7 @@
         
         .section {
             border: 1px solid #ddd;
-            min-height: 700px;
+            min-height: 600px;
             background-color: #fff;
         }
         
@@ -39,9 +39,9 @@
         }
         
         #nav li {
-            float: right;
-            padding: 6px;
-            margin: 2px;
+            float: left;
+            padding: 12px;
+            margin: 6px;
             background-color: black;
         }
         
